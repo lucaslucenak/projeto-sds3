@@ -12,12 +12,12 @@ function Home() {
                     <p className="lead">Analise o desempenho das suas vendas por diferentes perspectivas</p>
                     <hr />
                     <p>Esta aplicação consiste em exibir um dashboard a partir de dados fornecidos por um back end construído com Spring Boot.</p>
-                    <p><img src="coracao.png"/></p>
+                    <p><img src="coracao.png" alt = "michele muito gata do sorriso lindo"/></p>
                     <Link className="btn btn-primary btn-log" to="/dashboard">
                         Acessar dashboard
-                        <p><img src="coracao.png"/></p>
+                        <p><img src="coracao.png" alt = "michele muito gata do sorriso lindo"/></p>
                     </Link>
-                    <p><img src="coracao.png"/></p>
+                    <p><img src="coracao.png" alt = "michele muito gata do sorriso lindo"/></p>
                 </div>
             </div>
             <Footer />
