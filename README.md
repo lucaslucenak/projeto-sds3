@@ -1,4 +1,4 @@
-![Banner](/readme/img/banner.png)
+![Banner](/readme/img/banner.png)<br/>
 Project developed with DevSuperior at "Spring React Week".
 
 
