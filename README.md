@@ -1,4 +1,4 @@
-![Banner](readme\img\banner.png)
+![Banner](/readme/img/banner.png)
 Project developed with DevSuperior at "Spring React Week".
 
 
@@ -8,7 +8,7 @@ You can access the live project at [Netlify Deploy](https://dsvendas-lucaslucena
 
 ## Portfolio Main Menu
 
-![Menu](readme\img\menu.png)
+![Menu](/readme/img/menu.png)
 
 
 
